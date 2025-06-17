@@ -36,7 +36,7 @@ A simple and smart web-based **expense tracker** with login, real-time cloud sto
 
 ### 📝 Add Expense 
 <p align="center">
- <img src="Display.png" width="500"/>
+ <img src="Add-expense.png" width="500"/>
 </p>
 
 ### 📊 Daily Summary And Bill Reminders 
