@@ -3,7 +3,7 @@
 A simple and smart web-based **expense tracker** with login, real-time cloud storage, daily summaries, and reminder tagging — built using Firebase, HTML, CSS, and JavaScript.
 
 [👉 Live Demo](https://expense-tracker-app-5d84d.web.app)  
-[📂 GitHub Repo](https://github.com/Geeta0803/expense-tracker-firebase)
+[📂 GitHub Repo](https://github.com/Geeta0803/Expense-Tracker)
 
 ---
 
@@ -30,13 +30,22 @@ A simple and smart web-based **expense tracker** with login, real-time cloud sto
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](login-page.png)
+<p align="center">
+ <img src="login-page.png" width="500"/>
+</p>
 
-### 📝 Add Expense
-![Add Expense](Add-expense.png)
+### 📝 Add Expense 
+<p align="center">
+ <img src="Display.png" width="500"/>
+</p>
 
-### 📊 Daily Summary View
-![Display](Display.png)
+### 📊 Daily Summary And Bill Reminders 
+<p align="center">
+ <img src="Display.png" width="500"/>
+</p>
+
+
+
 
 
 ## 🧠 Learnings
