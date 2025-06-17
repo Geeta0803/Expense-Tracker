@@ -243,6 +243,11 @@ function loadDailySummary(expenses) {
   }
 }
 
+window.addEventListener("beforeunload", () => {
+  auth.signOut();
+});
+
+
 
 
 
