@@ -30,13 +30,13 @@ A simple and smart web-based **expense tracker** with login, real-time cloud sto
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/login-page.png)
+![Login](login-page.png)
 
 ### 📝 Add Expense
-![Add Expense](screenshots/Add-expense.png)
+![Add Expense](Add-expense.png)
 
 ### 📊 Daily Summary View
-![Display](screenshots/Display.png)
+![Display](Display.png)
 
 
 ## 🧠 Learnings
