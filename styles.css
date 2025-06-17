@@ -1,0 +1,83 @@
+/* Base Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+body {
+  background: #f9f9f9;
+  font-family: "Segoe UI", sans-serif;
+  padding: 20px;
+  color: #333;
+  background-color: #b92993;
+  background-position: fill;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+#welcome, #auth-section {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  margin: 20px 0 10px;
+  color: #34495e;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  background: rgb(47, 0, 255);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+button:hover {
+  background: #b92993;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  background: #ecf0f1;
+  margin-bottom: 8px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+li.red {
+  background-color: #ffe6e6;
+  color: #c0392b;
+}
+
+li.paid {
+  background-color: #e2fbe2;
+  color: #27ae60;
+}
